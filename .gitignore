@@ -1,0 +1,8 @@
+node_modules/
+*.db
+*.db-wal
+*.db-shm
+print-output/
+configurar_sql_server.bat
+.env
+config/
